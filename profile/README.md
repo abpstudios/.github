@@ -21,9 +21,8 @@ Each script includes a dedicated README with installation instructions, configur
 
 ## 🤝 Support  
 Need help or have any questions? Reach out to us through:  
-📧 Email: [YourEmail@example.com]  
-🌍 Website: [YourWebsite.com]  
-💬 Discord: [YourDiscordServer]  
+📧 Docs: https://abpstudios.gitbook.io/abp-docs
+💬 Discord: https://discord.gg/NQFSD6t9hQ
 
 ## 📜 License  
 All scripts are protected under the **GNU GPLv3**. Unauthorized distribution, resale, or modification without permission is strictly prohibited.  
